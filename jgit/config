@@ -1,0 +1,15 @@
+[filesystem "Azul Systems, Inc.|11.0.14.1|/dev/disk3s5"]
+	timestampResolution = 3000 nanoseconds
+	minRacyThreshold = 0 nanoseconds
+[filesystem "Homebrew|18|/dev/disk3s5"]
+	timestampResolution = 5000 nanoseconds
+	minRacyThreshold = 0 nanoseconds
+[filesystem "c-de-dhawkenmac.lan|Azul Systems, Inc.|11.0.14.1|/dev/disk3s5"]
+	timestampResolution = 8000 nanoseconds
+	minRacyThreshold = 0 nanoseconds
+[filesystem "Azul Systems, Inc.|1.8.0_382|/dev/disk3s5"]
+	timestampResolution = 1002 milliseconds
+	minRacyThreshold = 0 nanoseconds
+[filesystem "Azul Systems, Inc.|17.0.9|/dev/disk3s5"]
+	timestampResolution = 2000 nanoseconds
+	minRacyThreshold = 0 nanoseconds
